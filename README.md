@@ -13,6 +13,7 @@ To stregthen mathematical intuition, statistical reasoning, and computational fl
 - `04-ml-rebuild/` - regression, regularization, trees, SVM, unsupervised learning, neural nets
 - `05-bayesian/` - priors and posteriors, MCMC, hierarchical models
 - `06-glms-causal/` - GLMs, link functions, DAGs, causal inference
+- `weekly-reports/` - weekly analytical artifacts: Quarto reports, visualizations, EDA
 - `capstone/` - end to end SQL → R, EDA, modeling, write up
 - `reference-sheets/` - one page references per topic
 
