@@ -1,7 +1,6 @@
 # groundwork-2026
 
-Targeted summer 2026 review of the mathematical, statistical, and computational foundations underlying applied machine learning, Bayesian statistics, and quantitative policy analysis from a first principles approach: pencil and paper → code. 
-Built as preparation for advanced graduate coursework and applied analytical work.
+Targeted summer 2026 review of the mathematical, statistical, and computational foundations underlying applied machine learning, Bayesian statistics, and quantitative policy analysis. Built from first principles: pencil and paper → code. Preparation for advanced graduate coursework and applied analytical work.
 
 ## Why this exists 
 To stregthen mathematical intuition, statistical reasoning, and computational fluency before the final year of graduate study. 
@@ -21,12 +20,8 @@ To stregthen mathematical intuition, statistical reasoning, and computational fl
 R · Quarto · Python (numpy, pandas, scikit-learn) · SQL · Anki · Git
 
 ## Core resources
-An Introduction to Statistical Learning, R & Python (James, Witten, Hastie & Tibshirani) · Mathematics for Machine Learning (Deisenroth, Faisal & Ong) · Statistical Rethinking (McElreath) · The Effect (Huntington-Klein)
-
-## Supplementary resources
-Think Stats & Think Bayes (Downey) · 3Blue1Brown · StatQuest
+*An Introduction to Statistical Learning* (James, Witten, Hastie, Tibshirani & Taylor) · *Mathematics for Machine Learning* (Deisenroth, Faisal & Ong) · *R for Data Science* (Wickham, Çetinkaya-Rundel & Grolemund) · *Think Stats & Think Bayes* (Downey) · *Statistical Rethinking* (McElreath) · *The Effect* (Huntington-Klein)
 
 ## Status
-In progress (Summer 2026). 
-Topics, notes, exercises, and project work are added incrementally throughout the study period.
+In progress (Summer 2026). Work added incrementally throughout the study period.
 
